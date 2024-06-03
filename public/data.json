@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "background_color": "bg-red-500",
+      "text_color": "text-gray-700",
+      "card_background_color": "bg-red-200",
+      "category_img": "https://i.postimg.cc/P5CyFQ2C/Clothing.png",
+      "category_name": "Clothing",
+      "category_title": "Winter Wear"
+    },
+    {
+      "id": 2,
+      "background_color": "bg-green-500",
+      "text_color": "text-yellow-600",
+      "card_background_color": "bg-green-200",
+      "category_img": "https://i.postimg.cc/QdMNLHT9/Food.png",
+      "category_name": "Food",
+      "category_title": "Organic"
+    },
+    {
+      "id": 3,
+      "background_color": "bg-blue-500",
+      "text_color": "text-green-700",
+      "card_background_color": "bg-blue-200",
+      "category_img": "https://i.postimg.cc/6qsTttXs/Education.png",
+      "category_name": "Education",
+      "category_title": "Primary School"
+    },
+    {
+      "id": 4,
+      "background_color": "bg-yellow-500",
+      "text_color": "text-red-500",
+      "card_background_color": "bg-yellow-200",
+      "category_img": "https://i.postimg.cc/QM9XtwSj/Health.png",
+      "category_name": "Health",
+      "category_title": "Nutrition"
+    },
+    {
+      "id": 5,
+      "background_color": "bg-red-500",
+      "text_color": "text-gray-700",
+      "card_background_color": "bg-red-200",
+      "category_img": "https://i.postimg.cc/P5CyFQ2C/Clothing.png",
+      "category_name": "Clothing",
+      "category_title": "Summer Wear"
+    },
+    {
+      "id": 6,
+      "background_color": "bg-green-500",
+      "text_color": "text-yellow-600",
+      "card_background_color": "bg-green-200",
+      "category_img": "https://i.postimg.cc/QdMNLHT9/Food.png",
+      "category_name": "Food",
+      "category_title": "Fast Food"
+    },
+    {
+      "id": 7,
+      "background_color": "bg-blue-500",
+      "text_color": "text-green-700",
+      "card_background_color": "bg-blue-200",
+      "category_img": "https://i.postimg.cc/6qsTttXs/Education.png",
+      "category_name": "Education",
+      "category_title": "High School"
+    },
+    {
+      "id": 8,
+      "background_color": "bg-yellow-500",
+      "text_color": "text-red-500",
+      "card_background_color": "bg-yellow-200",
+      "category_img": "https://i.postimg.cc/QM9XtwSj/Health.png",
+      "category_name": "Health",
+      "category_title": "Exercise"
+    },
+    {
+      "id": 9,
+      "background_color": "bg-red-500",
+      "text_color": "text-gray-700",
+      "card_background-color": "bg-red-200",
+      "category_img": "https://i.postimg.cc/P5CyFQ2C/Clothing.png",
+      "category_name": "Clothing",
+      "category_title": "Spring Collection"
+    },
+    {
+      "id": 10,
+      "background_color": "bg-green-500",
+      "text_color": "text-yellow-600",
+      "card_background-color": "bg-green-200",
+      "category_img": "https://i.postimg.cc/QdMNLHT9/Food.png",
+      "category_name": "Food",
+      "category_title": "Healthy Snacks"
+    },
+    {
+      "id": 11,
+      "background_color": "bg-blue-500",
+      "text_color": "text-green-700",
+      "card_background-color": "bg-blue-200",
+      "category_img": "https://i.postimg.cc/6qsTttXs/Education.png",
+      "category_name": "Education",
+      "category_title": "University"
+    },
+    {
+      "id": 12,
+      "background_color": "bg-gray-500",
+      "text_color": "text-red-500",
+      "card_background-color": "bg-yellow-200",
+      "category_img": "https://i.postimg.cc/QM9XtwSj/Health.png",
+      "category_name": "Health",
+      "category_title": "Mental Health"
+    }
+  ]
+  
